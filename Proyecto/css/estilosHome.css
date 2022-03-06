@@ -1,0 +1,80 @@
+body{
+	/*background-image:url(../img/fondo_principal4.png);*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.bg-light {
+	background-color: rgb(21 7 98)!important;
+}
+#navPagina{
+	background-color: 
+}
+.boton{
+	border: none;
+	color:white;
+}
+.btn:hover{
+	color:white;
+}
+.navbar-light .navbar-toggler {
+    color: black;
+    border-color: #dee2e6;
+}
+.navbar-toggler {
+		background-color: #dee2e6;
+}
+html{
+	text-align: right;
+}
+header{
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+}
+.imagenesCentro{
+    width: 100%;
+    height: 87%;
+    top: 8%;
+    /*right: 0;*/
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-left: auto;
+}
+/*.informacionCentro{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}*/
+.colorInformacionImagenez{
+    /*width: 100%;
+    background-color: rgb(13 110 253 / 25%);
+    height: 20%;
+    margin-top: -7px !important;*/
+    color: #0dcaf0;
+    /*font-size: 27px;
+    font: oblique bold 158% cursive;*/
+}
+#imagen1{
+	width: 67%;
+		height: 100%;
+}
+#imagen2{
+	width: 67%;
+		height: 100%;
+}
+#imagen3{
+	width: 67%;
+		height: 100%;
+}
